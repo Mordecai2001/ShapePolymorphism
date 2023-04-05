@@ -72,4 +72,7 @@
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\UML_DIAGRAM.png" />
+  </ItemGroup>
 </Project>
